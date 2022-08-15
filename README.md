@@ -1,1 +1,1 @@
-# ControlY-Documentation
+# ControlY-Docs
