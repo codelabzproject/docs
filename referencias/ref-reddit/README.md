@@ -7,12 +7,32 @@ Nesse documento vamos armazenas e expor todas as referencias positivas e negativ
 
 ## Pontos negativos
 
-- Página inicial muito poluida / cheia de informação
-
 ![Print nº 1](https://github.com/controlyproject/docs/blob/main/referencias/ref-reddit/1.png)
 
-- Muitos botões quais não faço ideia do que eles fazem
+> Página inicial muito poluida / cheia de informação
 
-- Dificil reconhecer os padrões:
+> Muitos botões quais não faço ideia do que eles fazem
+
+> Dificil reconhecer os padrões:
 	- usuários são u/
 	- comunidades são r/
+
+---
+
+## Pontos positivos
+
+> Os comentários não são exibidos na página inicial, para ser acessados tem de clicar no post
+
+> Os posts são bem construidos, mantendo um padrão visual bom
+
+> Darkmode
+
+> Botão de voltar para o topo
+
+> Anuncios pontuais
+
+> Opções para montar posts com detalhes
+
+> Regras de convivencia exibidas ao postar
+
+> Pesquisa otimizada para encontrar a palavra chave nos titulos do post
